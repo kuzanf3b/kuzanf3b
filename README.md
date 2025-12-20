@@ -18,6 +18,14 @@
 
 <br>
 
+<div align="center">
+
+<img src="./assets/maomao.gif" width="160">
+
+</div>
+
+<br>
+
 ---
 
 ## 🚀 About Me
@@ -47,8 +55,9 @@ return M
 <div align="center">
 
 <picture>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuzanf3b&theme=rose_pine" width="100%" alt="Profile Summary" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuzanf3b&theme=rose_pine" width="100%" alt="Profile Summary" />
 </picture>
+
 
 
 </div>
