@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1>Hi there, I'm Kuzan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1>Hi there, I'm <a href="https://github.com/kuzanf3b" style="color:#9CCFD8">Kuzan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <br>
 
