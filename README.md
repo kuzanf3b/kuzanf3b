@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,vim,neovim,bash,lua,c,javascript,nodejs,reactjs,php" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,vim,neovim,bash,lua,c,javascript,nodejs,express,reactjs,php" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@ M.profile = function() {
 
         exploration = {
             frontend = { "html", "css", "js", "react" },
-            backend = { "nodejs", "lua", "c", "php" }
+            backend = { "nodejs", "express", "lua", "c", "php" }
         },
 
         tools = { "git", "vim", "neovim", "arch", "supabase", "bash" },
