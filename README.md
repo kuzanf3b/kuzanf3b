@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1>Hi there, I'm <span style="color:#6e94b2">Kuzan</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1>Hi there, I'm Kuzan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <br>
 
@@ -23,34 +23,32 @@
 ## 🚀 About Me
 
 ```lua
-    local M = {}
+M.profile = function() {
+    return {
+        currently_learning = {
+            active = { "Javascript", "Neovim Plugin", "Scripting" },
+            pending = { "Rust", "Go", "Game Development" }
+        },
 
-    M.profile = function() {
-        return {
-            currently_learning = {
-                active = { "Javascript", "Neovim Plugin", "Scripting" },
-                backlog = { "Rust", "Go", "Game Development" }
-            },
+        exploration = {
+            frontend = { "html", "css", "js", "react" },
+            backend = { "nodejs", "lua", "c", "php" }
+        },
 
-            exploration = {
-                frontend = { "html", "css", "js", "react" },
-                backend = { "nodejs", "lua", "c", "php" }
-            },
-
-            tools = { "git", "vim", "neovim", "arch", "supabase", "bash" },
-        }
+        tools = { "git", "vim", "neovim", "arch", "supabase", "bash" },
     }
+}
 
-    return M
-
+return M
 ```
 
 ---
 
 <div align="center">
 
-![stats-card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuzanf3b&theme=rose_pine)
-    
+![cards-profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuzanf3b&theme=rose_pine)
+![cards-commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuzanf3b&theme=rose_pine)
+
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=9ccfd8&section=footer)
