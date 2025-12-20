@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=130&color=9ccfd8&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=130&color=9CCFD8&section=header)
 
 <div align="center">
 
@@ -62,4 +62,4 @@ return M
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=9ccfd8&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=9CCFD8&section=footer)
