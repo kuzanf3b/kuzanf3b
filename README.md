@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,vim,neovim,bash,lua,c,javascript,nodejs,express,reactjs,php" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,neovim,bash,lua,c,javascript,express,reactjs,php,postman" />
   </a>
 </p>
 
@@ -37,13 +37,12 @@ M.profile = function() {
             active = { "Javascript", "Neovim Plugin", "Scripting" },
             pending = { "Rust", "Go", "Game Development" }
         },
-
         exploration = {
             frontend = { "html", "css", "js", "react" },
             backend = { "nodejs", "express", "lua", "c", "php" }
         },
-
         tools = { "git", "vim", "neovim", "arch", "supabase", "bash" },
+        tenet = "Minimalism yet powerfull"
     }
 }
 
