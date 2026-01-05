@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,neovim,bash,lua,c,javascript,express,reactjs,php,postman" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,neovim,bash,lua,c,javascript,express,reactjs,php" />
   </a>
 </p>
 
