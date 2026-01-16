@@ -28,36 +28,11 @@
 
 ---
 
-## 🚀 About Me
-
-```lua
-M.profile = function() {
-    return {
-        currently_learning = {
-            active = { "Javascript", "Neovim Plugin", "Scripting" },
-            pending = { "Rust", "Go", "Game Development" }
-        },
-        exploration = {
-            frontend = { "html", "css", "js", "react" },
-            backend = { "nodejs", "express", "lua", "c", "php" }
-        },
-        tools = { "git", "vim", "neovim", "arch", "supabase", "bash" },
-        tenet = "Minimalism yet powerfull"
-    }
-}
-
-return M
-```
-
----
-
 <div align="center">
 
 <picture>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuzanf3b&theme=rose_pine" width="100%" alt="Profile Summary" />
 </picture>
-
-
 
 </div>
 
