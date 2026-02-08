@@ -2,7 +2,7 @@
 
 <img align='right' src="./assets/maomao.gif" width="250">
 
-**`Backend Developer`** • **`Vim Enjoyer`**
+**`Backend Developer`** • **`Vim Enjoyer`** • **`Cinema Enthusiast`**
 
 I feel comfortable in the terminal, learning by building, and focusing on simplicity.<br>
 Prefers `$EDITOR=vim` over `$EDITOR=nano`.
