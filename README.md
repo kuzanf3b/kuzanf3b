@@ -4,7 +4,7 @@
 
 **`Backend Developer`** • **`Vim Enjoyer`**
 
-<p>I'm a Comfortable in the terminal, Learning by building, and focus on simplicity.</p>
+<p>I'm comfortable in the terminal, Learning by building, and focus on simplicity.</p>
 
 Prefer to `$EDITOR=vim` than `$EDITOR=nano`.
 
