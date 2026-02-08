@@ -1,6 +1,6 @@
 # <img src="./assets/rocket.gif" width="30"> Kuzan 
 
-<img align='right' src="./assets/maomao.gif" width="255">
+<img align='right' src="./assets/maomao.gif" width="250">
 
 **`Backend Developer`** • **`Vim Enjoyer`**
 
