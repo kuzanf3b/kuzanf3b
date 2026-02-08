@@ -6,11 +6,15 @@
 
 <p>I'm a Comfortable in the terminal, Learning by building, and focus on simplicity.</p>
 
-### <img src="./assets/fogo.gif" width="30"> Languages and Tools
+<br>
+
+### Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=git,neovim,lua,express,react,go,php,bash)](https://skillicons.dev)
 
-### <img src="./assets/totoro.gif" width="30"> More about me...
+<br>
+
+### <img src="./assets/fogo.gif" width="30"> More about me...
 
 ```lua
 function M.kuzan()
