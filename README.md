@@ -4,9 +4,8 @@
 
 **`Backend Developer`** • **`Vim Enjoyer`**
 
-<p>I feel comfortable in the terminal, learning by building, and focusing on simplicity.</p>
-
-Prefer to `$EDITOR=vim` than `$EDITOR=nano`.
+I feel comfortable in the terminal, learning by building, and focusing on simplicity.<br>
+Prefers `$EDITOR=vim` over `$EDITOR=nano`.
 
 <br>
 
@@ -23,14 +22,15 @@ function M.kuzan()
     return {
         currently_learning = {
             active = { "Javascript", "Go", "Neovim Plugin" },
-            pending = { "Rust", "Docker" }
+            pending = { "Rust", "Docker", "DSA" }
         },
         skills = {
             frontend = { "html", "css", "js", "react" },
             backend = { "lua", "nodejs", "express", "go", "fiber", "php" },
             tools = { "git", "vim", "neovim", "arch", "supabase", "postgres", "bruno" }
         },
-        motto = "Minimalism yet powerfull"
+        target = "Write software I can reason about",
+        motto = { "Minimalism yet powerfull", "KISS" }
     }
 end
 
