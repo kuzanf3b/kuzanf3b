@@ -1,10 +1,12 @@
 # <img src="./assets/rocket.gif" width="30"> Kuzan 
 
-<img align='right' src="./assets/maomao.gif" width="230">
+<img align='right' src="./assets/maomao.gif" width="260">
 
-**`Backend Developer`** - **`Vim Enjoyer`**
+**`Backend Developer`** • **`Vim Enjoyer`**
 
 <p>I'm a Comfortable in the terminal, Learning by building, and focus on simplicity.</p>
+
+Prefer to `$EDITOR=vim` than `$EDITOR=nano`.
 
 <br>
 
@@ -12,7 +14,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,neovim,lua,express,react,go,php,bash)](https://skillicons.dev)
 
----
 
 ### <img src="./assets/fogo.gif" width="30"> More about me...
 
