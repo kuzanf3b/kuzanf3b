@@ -1,4 +1,4 @@
-# <img src="./assets/rocket.gif" width="30"> Kuzan 
+# Kuzan <img src="./assets/jojo.gif" width="36">
 
 <img align='right' src="./assets/maomao.gif" width="250">
 
@@ -15,7 +15,7 @@ Prefers `$EDITOR=vim` over `$EDITOR=nano`.
 
 <br>
 
-### <img src="./assets/totoro.gif" width="30"> More about me...
+### <img src="./assets/kirby-jam.gif" width="30"> More about me...
 
 ```lua
 function M.kuzan()
