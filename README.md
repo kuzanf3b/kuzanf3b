@@ -21,11 +21,11 @@ Prefers `$EDITOR=vim` over `$EDITOR=nano`.
 function M.kuzan()
     return {
         currently_learning = {
-            active = { "Javascript", "Go", "Neovim Plugin" },
+            active = { "Typescript", "Go", "Neovim Plugin" },
             pending = { "Rust", "Docker", "DSA" }
         },
         skills = {
-            frontend = { "html", "css", "js", "react" },
+            frontend = { "html", "css", "scss", "js", "react", "vue" },
             backend = { "lua", "nodejs", "express", "go", "fiber", "php" },
             tools = { "git", "vim", "neovim", "arch", "supabase", "postgres", "bruno" }
         },
