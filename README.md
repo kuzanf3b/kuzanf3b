@@ -11,7 +11,7 @@ Prefers `$EDITOR=vim` over `$EDITOR=nano`.
 
 ### <img src="./assets/fogo.gif" width="30"> Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,neovim,lua,express,react,go,php,bash)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nix,git,neovim,lua,express,react,go,php,bash)
 
 <br>
 
@@ -27,7 +27,7 @@ function M.kuzan()
         skills = {
             frontend = { "html", "css", "scss", "js", "react", "vue" },
             backend = { "lua", "nodejs", "express", "go", "fiber", "php" },
-            tools = { "git", "vim", "neovim", "arch", "supabase", "postgres", "bruno" }
+            tools = { "git", "vim", "neovim", "nix", "nixos", "arch", "supabase", "postgres", "bruno" }
         },
         target = "Write software I can reason about",
         motto = { "Minimalism yet powerfull", "KISS" }
