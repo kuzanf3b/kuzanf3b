@@ -5,7 +5,7 @@
 **`Backend Developer`** • **`Vim Enjoyer`** • **`Cinema Enthusiast`**
 
 I feel comfortable in the terminal, learning by building, and focusing on simplicity.<br>
-Prefers `$EDITOR=vim` over `$EDITOR=nano`.
+I prefers `$EDITOR=vim` over `$EDITOR=nano`.
 
 <br>
 
