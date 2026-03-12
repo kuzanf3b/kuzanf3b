@@ -7,6 +7,8 @@
 I feel comfortable in the terminal, learning by building, and focusing on simplicity.<br>
 I prefers `$EDITOR=vim` over `$EDITOR=nano`.
 
+<br>
+
 ### <img src="./assets/fogo.gif" width="30"> Languages and Tools
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nix,git,neovim,lua,express,react,go,php,bash)
