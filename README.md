@@ -7,10 +7,6 @@
 I feel comfortable in the terminal, learning by building, and focusing on simplicity.<br>
 I prefers `$EDITOR=vim` over `$EDITOR=nano`.
 
-[![Letterboxd](https://img.shields.io/badge/kuzano-00D735?logo=letterboxd&style=flat)](https://boxd.it/9fVOJ)
-[![Discord](https://img.shields.io/badge/cuzanf-FFFFFF?logo=discord&style=flat)](https://discordapp.com/users/1106797715481952388)
-[![Steam](https://img.shields.io/badge/kuzan-1A5480?logo=steam&style=flat)](https://steamcommunity.com/profiles/76561199755821119/)
-
 ### <img src="./assets/fogo.gif" width="30"> Languages and Tools
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nix,git,neovim,lua,express,react,go,php,bash)
