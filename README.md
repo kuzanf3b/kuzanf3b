@@ -39,6 +39,6 @@ return M
 
 <div align="center">
 
-[![Glacier Schemes](https://img.shields.io/badge/glacier-89DCEB?logo=snowflake&style=for-the-badge)](https://glacierschemes.vercel.app)
+[![Glacier Schemes](https://img.shields.io/badge/glacier-6ED4E6?logo=snowflake&style=for-the-badge)](https://glacierschemes.vercel.app)
 
 </div>
