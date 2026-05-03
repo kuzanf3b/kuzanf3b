@@ -22,11 +22,11 @@ function M.kuzan()
     return {
         currently_learning = {
             active = { "Typescript", "Go", "Neovim Plugin" },
-            pending = { "Rust", "Docker", "DSA" }
+            pending = { "Docker", "DSA" }
         },
         skills = {
             frontend = { "html", "css", "scss", "js", "react", "vue" },
-            backend = { "lua", "nodejs", "express", "go", "fiber", "php" },
+            backend = { "lua", "nodejs", "express", "go", "fiber", "gin", "php", "python" },
             tools = { "git", "vim", "neovim", "nix", "nixos", "arch", "supabase", "postgres", "bruno" }
         },
         target = "Write software I can reason about",
