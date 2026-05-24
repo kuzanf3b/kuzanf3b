@@ -11,7 +11,7 @@ I prefers `$EDITOR=vim` over `$EDITOR=nano`.
 
 ### <img src="./assets/fogo.gif" width="30"> Languages and Tools
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,neovim,lua,express,react,vue,go,php)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,neovim,lua,express,react,vue,go,laravel)
 
 <br>
 
