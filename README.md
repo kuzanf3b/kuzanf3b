@@ -27,7 +27,8 @@ function M.kuzan()
         skills = {
             frontend = { "html", "css", "scss", "js", "react", "vue" },
             backend = { "lua", "nodejs", "express", "go", "fiber", "gin", "php", "python" },
-            tools = { "git", "vim", "neovim", "nix", "nixos", "arch", "supabase", "postgres", "bruno", "colab", "jupyter" }
+            tools = { "git", "vim", "neovim", "nix", "supabase", "postgres", "bruno", "colab", "jupyter" },
+            os = { "arch", "nixos" } 
         },
         target = "Write software I can reason about",
         motto = { "Minimalism yet powerfull", "KISS" }
