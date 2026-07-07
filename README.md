@@ -28,7 +28,7 @@ function M.kuzan()
             frontend = { "html", "css", "scss", "js", "react", "vue" },
             backend = { "lua", "nodejs", "express", "go", "fiber", "gin", "php", "python" },
             tools = { "git", "vim", "neovim", "nix", "supabase", "postgres", "bruno", "colab", "jupyter" },
-            os = { "arch", "nixos" } 
+            os = { "arch", "nixos", "cachyos", "fedora" } 
         },
         target = "Write software I can reason about",
         motto = { "Minimalism yet powerfull", "KISS" }
