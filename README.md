@@ -21,8 +21,8 @@ I prefers `$EDITOR=vim` over `$EDITOR=nano`.
 function M.kuzan()
     return {
         currently_learning = {
-            active = { "Typescript", "Go", "Neovim Plugin" },
-            pending = { "Docker", "DSA" }
+            active = { "Machine Learning" },
+            pending = { "DSA" }
         },
         skills = {
             frontend = { "html", "css", "scss", "js", "react", "vue" },
