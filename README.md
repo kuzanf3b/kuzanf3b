@@ -2,7 +2,7 @@
 
 <img align='right' src="./assets/maomao.gif" width="250">
 
-**`Backend Developer`** • **`Vim Enjoyer`** • **`Cinema Enthusiast`**
+**`Backend Developer`** • **`Vim Enjoyer`**
 
 I feel comfortable in the terminal, learning by building, and focusing on simplicity.<br>
 I like `$EDITOR=vim` more than `$EDITOR=nano`.
@@ -11,7 +11,7 @@ I like `$EDITOR=vim` more than `$EDITOR=nano`.
 
 ### <img src="./assets/fogo.gif" width="30"> Languages and Tools
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,neovim,lua,express,react,vue,python,laravel,go)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,neovim,lua,express,react,vue,python,laravel)
 
 <br>
 
@@ -25,10 +25,10 @@ function M.kuzan()
             pending = { "Rust" }
         },
         skills = {
-            frontend = { "html", "css", "scss", "js", "react", "vue" },
-            backend = { "lua", "nodejs", "express", "go", "fiber", "gin", "php", "python" },
-            tools = { "git", "vim", "neovim", "nix", "supabase", "postgres", "bruno", "colab", "jupyter" },
-            os = { "arch", "nixos", "cachyos", "fedora" } 
+            frontend = { "html", "css", "scss", "ts", "react", "vue" },
+            backend = { "lua", "nodejs" "go" "php", "python" },
+            tools = { "git", "vim", "neovim", "supabase", "postgres" },
+            os = { "arch", "nixos", "windows" } 
         },
         target = "Write software I can reason about",
         motto = { "Minimalism yet powerfull", "KISS" }
